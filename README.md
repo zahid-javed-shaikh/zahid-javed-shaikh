@@ -1,78 +1,47 @@
-## About Me 👋
+<h1 align="center">Hi, I'm Zahid 👋</h1>
+<h3 align="center">Data Engineer & Power BI Developer · Microsoft Fabric • Databricks • Power BI</h3>
 
-Data Engineer & Power BI Developer**  
-Delivering end-to-end BI & data solutions with **Microsoft Fabric, Databricks, and Power BI**.  
-Passionate about transforming raw data into **actionable insights**
-
-## 🛠️ Core Skills & Tools  
-
-### 🔹 Microsoft Fabric  
-<p align="left">
-  <img src="https://img.shields.io/badge/Fabric%20Data%20Factory-0078D4?logo=azure-data-factory&logoColor=white&style=for-the-badge" alt="Fabric Data Factory"/>
-  <img src="https://img.shields.io/badge/Fabric%20Lakehouse-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Fabric Lakehouse"/>
-  <img src="https://img.shields.io/badge/Fabric%20Warehouse-0078D4?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="Fabric Warehouse"/>
-  <img src="https://img.shields.io/badge/Fabric%20Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Fabric Power BI"/>
+<p align="center">
+  <a href="mailto:smj.zahid@gmail.com"><img src="https://img.shields.io/badge/Email-smj.zahid%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-zahid-shaikh-17476715/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/📍-Birmingham,_UK-success?style=flat-square"/>
 </p>
 
-- **Data Factory** → Pipelines, orchestration, integration with Lakehouse & Warehouse  
-- **Lakehouse** → Unified data storage & analytics  
-- **Warehouse** → Scalable, SQL-based data warehousing  
-- **Power BI** → Dashboards, Direct Lake, semantic models  
+---
+
+### 🚀 About Me
+
+I deliver **end-to-end BI and data engineering solutions** on the modern Microsoft data stack — turning raw, messy data into governed, performant, decision-ready products. Currently focused on applying **GenAI tooling (LangChain, Hugging Face, Copilot, Llama)** to accelerate lift-and-shift of legacy pipelines into **Fabric Lakehouse** and **Databricks Delta / MLflow** environments.
 
 ---
 
-### 🔹 Power BI (Expert)  
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI"/>
+### 🛠️ Tech Stack
+
+**Microsoft Fabric** — Data Factory · Lakehouse · Warehouse · Real-Time Intelligence · Direct Lake
+**Power BI (Expert)** — Advanced DAX · Power Query · RLS · Tenant Admin · Performance Tuning
+**Data Engineering** — PySpark · Databricks (Lakeflow, DLT, MLflow) · SQL · Star/Snowflake modelling
+**GenAI** — LangChain · Hugging Face · Llama · GitHub Copilot
+
+---
+
+### 📌 Featured Work
+
+| Repo | What it is |
+|---|---|
+| 🚗 [`fabric-realtime-telemetry-demo`](#) | Real-time car-rental telemetry on Fabric RTI |
+| 📊 [`powerbi-dax-patterns`](#) | Production-tested DAX & performance recipes |
+| 🧠 [`ai-engineer-foundry`](#) | LangChain / HF / Llama projects for Fabric & Databricks |
+| 📚 [`databricks-aiml-articles`](#) | Plain-English Databricks, AI & MLOps explainers |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahid-javed-shaikh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-javed-shaikh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-- Advanced **DAX** (KPIs, Time Intelligence, Calculations)  
-- **Power Query** ETL & Dataflows  
-- Connectivity: DirectQuery • Direct Lake • Import  
-- Governance: RLS, Power BI Apps, Tenant Administration  
-- Interactive reporting: Bookmarks • Drillthrough • Conditional Formatting • Custom Visuals  
-
 ---
 
-### 🔹 Data Engineering & SQL  
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-Developer-blue?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Databricks-Data%20Engineering-orange?logo=databricks&logoColor=white&style=for-the-badge" alt="Databricks"/>
-</p>
-
-- Optimised queries, CTEs, Stored Procedures  
-- ETL/ELT with Fabric Data Factory (Dataflow Gen2, pyspark, pipeline Orchestration, Databricks (Lakeflow, DLT)  
-- Data modelling: Star Schema • Snowflake Schema • Surrogate Keys • Hierarchies  
-
----
-
-## 📊 What I Do  
-
-✔️ Build **scalable, secure & insightful dashboards** that drive decision-making  
-✔️ Migrate & modernise legacy systems using **Fabric + Databricks**  
-✔️ Optimise **Power BI reports/datasets** for enterprise performance  
-✔️ Train & enable teams for **self-service BI adoption**  
-✔️ Deliver **end-to-end BI pipelines** with governance & automation  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahid Shaikh_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid Shaikh&layout=compact&theme=tokyonight)  
-
----
-
-## 🌍 Let’s Connect  
-
-📧 [smj.zahid@gmail.com](mailto:smj.zahid@gmail.com)  
-📍 Birmingham, United Kingdom  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-zahid-shaikh-17476715/) *(Add your LinkedIn profile link here)*  
-
----
-
-✨ *Always exploring ways to merge Microsoft Fabric, Databricks & Power BI to create intelligent, future-ready data solutions.*  
-
-
-
-Focused on applying AI frameworks and tools (LangChain, Hugging Face, GitHub Copilot, Llama) to accelerate lift-and-shift of legacy pipelines into Microsoft Fabric Lakehouse and Databricks Delta/MLflow environments, with emphasis on governance, performance, and security.
+<p align="center"><i>Always exploring ways to merge Microsoft Fabric, Databricks & Power BI into intelligent, future-ready data solutions.</i></p>
