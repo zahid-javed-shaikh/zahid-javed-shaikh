@@ -94,11 +94,12 @@ Build dashboards that survive contact with real users and real data volumes. Mod
 
 ---
 
-### GitHub Activity
+### Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahid-javed-shaikh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-javed-shaikh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p>
+  <img src="https://img.shields.io/badge/Building-Fabric%20%2B%20GenAI%20migration%20patterns-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Writing-Plain--English%20Databricks%20articles-FF3621?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-BI%20%26%20Data%20Engineering%20roles-2EA043?style=for-the-badge"/>
 </p>
 
 ---
